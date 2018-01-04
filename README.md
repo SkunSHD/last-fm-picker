@@ -1,13 +1,3 @@
-# example application with a server running outside of Figwheel
-
-This application demonstrates the common way of using Figwheel in
-web-development, where Figwheel runs along side your web server.
-
-## Overview
-
-This application demonstrates a small Clojure application that uses Figwheel for
-ClojureScript development
-
 ## Setup
 
 To get an interactive development environment run:
@@ -54,6 +44,6 @@ Please take some time to look at the `project.clj` and the `user.clj`
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2018 AWESOME
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
