@@ -10,6 +10,7 @@
                  [org.clojure/clojurescript "1.9.229"]
                  [org.clojure/core.async "0.2.395"
                   :exclusions [org.clojure/tools.reader]]
+                 [reagent "0.7.0"]
 
                  ;; NOTE: common clojure server side libraries
                  [ring/ring-defaults "0.2.1"]
